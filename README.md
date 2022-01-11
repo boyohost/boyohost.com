@@ -1,2 +1,2 @@
 # boyohost.com
-boyohost js file
+boyohost file
